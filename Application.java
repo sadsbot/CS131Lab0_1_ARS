@@ -1,5 +1,6 @@
 /**
-* Class Description
+* Application class with main method used to instantiate and call the area
+* method of two objects; a Square and a Circle.
 *
 * @author Andrew Ross-Sermons
 * @version 0.1
